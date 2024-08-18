@@ -1,0 +1,32 @@
+names:
+- Aether
+- Alhaitam
+- Ayaka
+- Baizhou
+- Childe
+- Cyno
+- Diluc
+- Eula
+- Furina
+- Ganyu
+- HuTao
+- Kazuha
+- Keqing
+- Klee
+- Kokomi
+- Lumine
+- Nahida
+- Nilou
+- Paimon
+- Qiqi
+- Raiden Shogun
+- Shenhe
+- Venti
+- Wanderer
+- Xiao
+- Yelan
+- Yoimiya
+- Zhongli
+nc: 28
+train: /Genshin-Impact-Anime-Character-3/train/images
+val: ../Genshin-Impact-Anime-Character-3/valid/images/_3-kazuha_jpeg.rf.4d7c30beb0219f46d24bc228c5c5dc4b.jpg
